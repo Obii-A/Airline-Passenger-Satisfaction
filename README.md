@@ -70,7 +70,7 @@ Dissatisfaction Rate: The percentage of passengers who reported being neutral or
 
 ## Data Collection
 
-The dataset was taken from the Data Playground of Maven Analytics as a CSV file and it contains Airline Satisfaction Scores for 129,880 passengers spread across 24 fields. Each record represents one passenger and each record contains details about passenger demographics, flight distance and delays, travel class and purpose, and ratings for factors like cleanliness, comfort, and service, as well as overall satisfaction with the airline. Here's a [Link](https://mavenanalytics.io/data-playground?dataStructure=Single%20table&order=date_added%2Cdesc&page=3&pageSize=5) to the data
+The dataset was taken from the [Data Playground](https://mavenanalytics.io/data-playground) of Maven Analytics as a CSV file and it contains Airline Satisfaction Scores for 129,880 passengers spread across 24 fields. Each record represents one passenger and each record contains details about passenger demographics, flight distance and delays, travel class and purpose, and ratings for factors like cleanliness, comfort, and service, as well as overall satisfaction with the airline. Here's a [Link](https://mavenanalytics.io/data-playground?dataStructure=Single%20table&order=date_added%2Cdesc&page=3&pageSize=5) to the data
  
 
 ## Insights & Recommendations
